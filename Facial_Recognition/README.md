@@ -1,3 +1,3 @@
-# Facial Recognition
-
-This folder contians the Jupyter Notebook and data for the project that uses Principal Component Analysis for Facial Recognition. I recommend that you use Google colab to run the notebook if you wish to run it yourself in order bypass the need of installing an environment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f3af48a4ce9290b896f1daae48cafe5a4d497bddc0c6ab236c953f7fd208f8
+size 296
