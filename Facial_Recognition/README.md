@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68f3af48a4ce9290b896f1daae48cafe5a4d497bddc0c6ab236c953f7fd208f8
-size 296
+This project uses Principal Component Analysis (PCA) for facial recognition. With the use of PCA, the eigenfaces can be generated and then used to reconstruct the original faces using linearly combining them. With these eigenfaces a mini facial recognition system can be implemented, implementing one of the images the model was trained on and then predicts the person given to the model.
