@@ -1,1 +1,2 @@
+# Facial Recognition
 This project uses Principal Component Analysis (PCA) for facial recognition. With the use of PCA, the eigenfaces can be generated and then used to reconstruct the original faces using linearly combining them. With these eigenfaces a mini facial recognition system can be implemented, implementing one of the images the model was trained on and then predicts the person given to the model.
